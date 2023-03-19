@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "298505808948",
+    "project_id": "clinic-match-dev",
+    "storage_bucket": "clinic-match-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298505808948:android:59c68abe1bfc56d824ee61",
+        "android_client_info": {
+          "package_name": "com.clinicmatch.clinic_match_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298505808948-ja2k4hka61pbtotbpvna9gkccsgo7qkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clinicmatch.clinic_match_app",
+            "certificate_hash": "2eb5eb8761b9b8ff82d178de2faa4318a74b53fe"
+          }
+        },
+        {
+          "client_id": "298505808948-rr6fnob7fgq0ibq11o04qovirf1bii29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgdzNKeNc0BpytDwh8w6LK-hdwplFZWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298505808948-jkpadam0cfvlo8uc58s7bhks0pl6ittc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298505808948-tabqb7qmqnq42t98lr837sgt5ej8sc19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clinicmatch.clinicMatchApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
